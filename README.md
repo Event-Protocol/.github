@@ -28,7 +28,7 @@ We welcome contributions from developers, researchers, and enthusiasts. To get s
 1. Fork the repository.
 2. Make your changes in a feature branch.
 3. Submit a pull request with a detailed description of your changes.
-4. Review our [contribution guidelines](#) for more details.
+4. Review our [contribution guidelines](https://github.com/Event-Protocol/.github/blob/main/contribution_guideline.md) for more details.
 
 ## 📅 Roadmap
 We’re working hard to deliver the following milestones:
