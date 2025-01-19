@@ -1,4 +1,4 @@
-# Welcome to The Event Protocol Organization
+# Welcome to The Event Protocol
 
 **The Event Protocol** is a groundbreaking initiative focused on bridging the gap between blockchain events and real-world actions. We are building a modular, developer-friendly platform that enables seamless integration between blockchain technology and IoT devices, APIs, and AI-driven systems.
 
